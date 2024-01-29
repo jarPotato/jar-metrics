@@ -14,4 +14,3 @@ public class TimedConfiguration {
         return new TimedAspect(registry);
     }
 }
-
